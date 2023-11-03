@@ -1,3 +1,2 @@
 # Database_Management_Console_Application-DMCA-
-# Database Management Console Application: 
 This is a Python-based console application for managing an employee and branch database. The application allows users to view, modify, and create tables in the database. Users can add and remove employees and branches, and view the current state of the tables. The application uses the pandas library to display the tables in a tabular format, and the mysql.connector library to connect to the MySQL server and execute SQL commands. The os.system('cls') command is used to clear the console. The database connection and cursor are closed at the end of the script to free up resources.
